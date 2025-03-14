@@ -14,3 +14,5 @@ List ouput or inputs:
 
 `pw-link -o`
 `pw-link -i`
+
+M6 needs to be set to the "Pro Audio" Profile
